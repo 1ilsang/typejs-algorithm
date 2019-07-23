@@ -24,16 +24,16 @@ Quick start
 Tests
 ---
 
-  To run the more test suite, first **modify** the `...TestCase.ts`, then run `npm start `:
+  To run the more test suite, first **modify** the `...TestCase.ts`, then run `npm start`:
   ```bash
   $ npm start
   ```
   
   After that, you can get like this.
   
-  <img src="./.docs/command.png" width=350 alt="command line picture" />
+  <img src="./.docs/command.png" width=450 alt="command line picture" />
   
-  <img src="./.docs/test-case.png" width=350 alt="command line picture" />
+  <img src="./.docs/test-case.png" width=450 alt="command line picture" />
   
 LICENSE
 ---
