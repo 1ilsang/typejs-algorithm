@@ -1,0 +1,18 @@
+{
+  "name": "1ilsang-zigzag",
+  "version": "1.0.0",
+  "description": "zigzag function homework",
+  "main": "index.ts",
+  "scripts": {
+      "start": "tsc index.ts && node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "1ilsang"
+  },
+  "author": "1ilsang",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^3.5.3"
+  }
+}

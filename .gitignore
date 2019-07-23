@@ -1,0 +1,5 @@
+problems/
+.DS_Store
+.idea/
+**/*.js
+node_modules/
